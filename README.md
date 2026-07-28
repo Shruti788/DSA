@@ -1,3 +1,3 @@
 # Data Structures & Algorithms in Python 🚀
 
-This repository contains solutions to Data Structures & Algorithms problems solved in Python while preparing for coding interviews and software engineering roles.
+This repository contains Python solutions to LeetCode problems, along with explanations, time and space complexity analysis, and approach notes for each problem.
