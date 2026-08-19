@@ -28,23 +28,6 @@ arr2 = [2,1,4,3,9,6]
 
 ---
 
-### Example 2
-
-**Input**
-
-```text
-arr1 = [28,6,22,8,44,17]
-arr2 = [22,28,8,6]
-```
-
-**Output**
-
-```text
-[22,28,8,6,17,44]
-```
-
----
-
 ## 💡 Approach
 
 ### Frequency Count + Sorting
@@ -155,3 +138,5 @@ Therefore,
 - The `for _ in range(count[num])` loop is useful when we need to add an element multiple times based on its frequency.
 - Elements that are not present in `arr2` can be collected separately and sorted before being added to the final result.
 - This problem is a good example of combining **Hash Maps + Sorting** to control the order of elements efficiently.
+
+---
